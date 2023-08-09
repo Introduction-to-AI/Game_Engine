@@ -56,7 +56,7 @@ You can change the game settings by passing in values to `python main.py`. You n
 traversal.
 * R (Random)—the agent will pick a random move.
 * M (Minimax)—the agent will pick a move using the Minimax algorithm. You will be prompted for a maximum search depth.
-* A (Alpha-Beta pruning)—the agent will pick a move using A-B pruning. You will be prompted for a maximum search depth.
+* A (Alpha-Beta pruning)—the agent will pick a move using Alpha-Beta pruning. You will be prompted for a maximum search depth.
 
 Passing in an invalid number or type of arguments will result in the system defaulting to a human vs. a random player.
 
